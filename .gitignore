@@ -4,7 +4,6 @@ test*
 *.conf
 Local*
 bin
-mshadow
 config.mk
 layer.h
 layer_impl-inl.hpp
@@ -14,10 +13,7 @@ im2bin
 *.pyc
 example
 *.log
-ps-lite
-dmlc-core
 bin
-rabit
 *.opensdf
 *.sdf
 *.pdb
@@ -27,6 +23,3 @@ rabit
 *.cache
 *state
 *build
-/src/nnet/core
-/tools/ILSVRC2012_VAL
-/tools/shit
